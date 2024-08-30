@@ -7,3 +7,4 @@ xhofe/alist:latest
 
 elastic/filebeat:8.14.1
 elastic/filebeat:8.14.2
+redis:latest
