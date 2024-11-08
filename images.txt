@@ -5,4 +5,7 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
- secfa/awvs:beta
+secfa/awvs:231123131
+secfa/awvs:231005181
+secfa/awvs:230628115
+secfa/awvs:230222085
