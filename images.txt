@@ -5,5 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
-secfa/awvs:221109177
-secfa/awvs:221007170
+vulhub/flask
