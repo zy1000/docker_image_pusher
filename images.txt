@@ -5,13 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
-elastic/filebeat:8.14.1
-elastic/filebeat:8.14.2
-redis:latest
-rabbitmq:3-management
-elasticsearch:8.6.2
-kibana:8.6.2
-xuxueli/xxl-job-admin:2.3.1
-mysql:latest
-secfa/awvs:latest
-secfa/docker-awvs:latest
+ secfa/awvs:beta
