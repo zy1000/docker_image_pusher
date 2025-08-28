@@ -1,4 +1,1 @@
-onlyoffice/mailserver
-onlyoffice/controlpanel
-onlyoffice/communityserver
-onlyoffice/documentserver
+infiniflow/ragflow:v0.20.4-slim
