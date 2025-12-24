@@ -1,1 +1,3 @@
 infiniflow/ragflow:v0.20.4-slim
+wbsu2003/next-ai-draw-io
+leantime/leantime:latest
